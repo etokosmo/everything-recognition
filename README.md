@@ -26,16 +26,16 @@
 ![фото-анфас](https://user-images.githubusercontent.com/93794917/177828523-99d78120-fcb7-4226-a84f-d48a14918bf6.png)
 
 ### Улыбка человека
-![фото-глаза](https://user-images.githubusercontent.com/93794917/177828541-684ed3df-6485-451f-8169-5cf2c7ac9027.png)
+![smile](https://user-images.githubusercontent.com/93794917/178029450-fe538884-aff2-4626-943d-3d79365e284b.png)
 
 ### Глаза человека
 ![фото-глаза](https://user-images.githubusercontent.com/93794917/177828541-684ed3df-6485-451f-8169-5cf2c7ac9027.png)
 
 ### Человек в полный рост
-![фото-глаза](https://user-images.githubusercontent.com/93794917/177828541-684ed3df-6485-451f-8169-5cf2c7ac9027.png)
+![man](https://user-images.githubusercontent.com/93794917/178029541-cce1e827-1c65-4e54-ad5d-f3ce239454f0.png)
 
 ### Мордашка кота
-![фото-глаза](https://user-images.githubusercontent.com/93794917/177828541-684ed3df-6485-451f-8169-5cf2c7ac9027.png)
+![cat](https://user-images.githubusercontent.com/93794917/178029470-8a7f20a1-3ec4-4593-83ce-1e91f597fd1e.png)
 
 
 ## Конфигурации
